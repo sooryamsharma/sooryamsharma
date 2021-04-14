@@ -6,7 +6,7 @@
 
 I am a Computer Science graduate student at UT-Arlington, currently looking for full-time job opportunities as a Software/Full-Stack Developer preferably in ML domain.
 
-During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Neural Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process & Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
+During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process & Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
 
 My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I have implemented Generative Adversarial Deep Convolutional Networks to attain Structure-awareness in Human Pose Estimation. 
 
