@@ -6,7 +6,7 @@
 
 I am a Computer Science graduate student at UT-Arlington, currently looking for full-time job opportunities as a Software/Full-Stack Developer preferably in ML domain.
 
-During my master's I have had hands on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Neural Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process & Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
+During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Neural Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process & Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
 
 My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I have implemented Generative Adversarial Deep Convolutional Networks to attain Structure-awareness in Human Pose Estimation. 
 
@@ -23,7 +23,7 @@ During the course of my masters I also gained knowledge of Full-Stack developmen
 
 - 📖 **Master of Science - Computer Science**\
 📆 August 2018 - May 2021\
-🏤 **University of Texas at Arlington** - Arlington, USA
+🏤 **University of Texas at Arlington** - Arlington TX, USA
 
 - 📖 **Bachelor of Engineering - Computer Engineering**\
 📆 June 2013 - August 2017\
@@ -33,14 +33,14 @@ During the course of my masters I also gained knowledge of Full-Stack developmen
 
 - 💼 **Graduate Teaching Assistant**\
 📆 January 2020 - Present\
-📍 **University of Texas at Arlington** - Arlington, USA\
+📍 **University of Texas at Arlington** - Arlington TX, USA\
 *Courses: Operating Systems CSE 3320, Discrete Structures CSE 2315, Object Oriented Programming CSE 1325, and CSE1310 Introduction to Computers and Programming*\
 *-  Assisted faculty members with online instructional preparation, delivery, and assessment.*\
 *-  Evaluating and grading projects using a one-on-one virtual demo, through Microsoft Teams as well as leading two discussion sessions every week.*
 
 - 💼 **Graduate Research Assistant**\
 📆 December 2019 - May 2020\
-📍 **University of Texas at Arlington** - Arlington, USA\
+📍 **University of Texas at Arlington** - Arlington TX, USA\
 *Autonomous Vehicle Development at Sigma Lab*\
 *-	Integrated ROS on Jetson TX2, an NVIDIA AI platform for a self-driving racecar.*\
 *-	Used LIDAR, Zed Stereo Camera data inputs and designed a CNN model for autonomous lane navigation.*
