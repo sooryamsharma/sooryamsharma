@@ -21,7 +21,7 @@ During the course of my masters I also gained knowledge of Full-Stack developmen
 
 ## Education
 
-- 📖 **Master of Science - Computer Science**\
+- 📖 **Master of Science - Computer Science (GPA:3.63/4.00)**\
 📆 August 2018 - May 2021\
 🏤 **University of Texas at Arlington** - Arlington TX, USA
 
