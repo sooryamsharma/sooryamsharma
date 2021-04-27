@@ -39,9 +39,12 @@ During the course of my masters I also gained knowledge of Full-Stack developmen
 *-  Evaluating and grading projects using a one-on-one virtual demo, through Microsoft Teams as well as leading two discussion sessions every week.*
 
 - 💼 **Graduate Research Assistant**\
-📆 December 2019 - May 2020\
+📆 December 2019 - May 2021\
 📍 **University of Texas at Arlington** - Arlington TX, USA\
-*Autonomous Vehicle Development at Sigma Lab*\
+*Computer Vision Researcher at VLM (Vision-Learning-Mining) Lab • Supervisor: Dr Vassillis Athitsos • 05/2020 – 05/2021*\
+*-	Master’s thesis: Structure Aware Human Pose Estimation using Adversarial Learning.*\
+*-	Collaborate with other researchers on activity recognition and cognitive assessment in children through motion capture and computer vision.*\
+*Autonomous Vehicle Development at Sigma Lab • Supervisor: Dr Chen Kan • 12/2019 – 05/2020*\
 *-	Integrated ROS on Jetson TX2, an NVIDIA AI platform for a self-driving racecar.*\
 *-	Used LIDAR, Zed Stereo Camera data inputs and designed a CNN model for autonomous lane navigation.*
 
