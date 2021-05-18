@@ -12,7 +12,7 @@ My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision.
 
 During the course of my masters I also gained knowledge of Full-Stack development technologies such as: React, HTML5, CSS3, REST, Django, SQL, AWS RDS, AWS DynamoDB. 
 
-- 🔭 I’m currently working on my AWS Solution's Architect certification exam.
+- 🔭 I’m currently working on my AWS Certified Developer certification exam.
 - 🌱 I’m currently learning Node.JS
 
 <details>
