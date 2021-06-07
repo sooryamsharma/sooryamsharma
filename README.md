@@ -4,7 +4,7 @@
 
 <p align='center'></p>
 
-I am a Computer Science graduate student at UT-Arlington, currently looking for full-time job opportunities as a Software/Full-Stack Developer preferably in ML domain.
+I am a Computer Science graduate student at UT-Arlington, currently looking for full-time job opportunities as a Software Developer / Full-Stack Developer preferably in ML domain.
 
 During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process & Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
 
@@ -41,7 +41,7 @@ During the course of my masters I also gained knowledge of Full-Stack developmen
 - 💼 **Graduate Research Assistant**\
 📆 December 2019 - May 2021\
 📍 **University of Texas at Arlington** - Arlington TX, USA\
-*Computer Vision Researcher at VLM (Vision-Learning-Mining) Lab • Supervisor: Dr Vassillis Athitsos • 05/2020 – 05/2021*\
+*Computer Vision Researcher at VLM (Vision-Learning-Mining) Lab • Supervisor: Dr Vassillis Athitsos • 05/2020 – present*\
 *-	Master’s thesis: Structure Aware Human Pose Estimation using Adversarial Learning.*\
 *-	Collaborate with other researchers on activity recognition and cognitive assessment in children through motion capture and computer vision.*\
 *Autonomous Vehicle Development at Sigma Lab • Supervisor: Dr Chen Kan • 12/2019 – 05/2020*\
