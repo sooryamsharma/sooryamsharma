@@ -10,10 +10,9 @@ During my master's I had hands-on experience with various Machine Learning techn
 
 My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I have implemented Generative Adversarial Deep Convolutional Networks to attain Structure-awareness in Human Pose Estimation. 
 
-During the course of my masters I also gained knowledge of Full-Stack development technologies such as: React, HTML5, CSS3, Spring, REST, SQL, AWS RDS. 
+Apart from Machine Learning, I have also done several projects in Backend / Full-Stack development using: Spring, React.JS, HTML5, CSS3, REST API, SQL, AWS RDS. 
 
 - 🔭 I’m currently working on my AWS Certified Developer certification exam.
-- 🌱 I’m currently learning Node.JS
 
 <details>
   <summary>📃 My Resume</summary>
