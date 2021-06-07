@@ -10,7 +10,7 @@ During my master's I had hands-on experience with various Machine Learning techn
 
 My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I have implemented Generative Adversarial Deep Convolutional Networks to attain Structure-awareness in Human Pose Estimation. 
 
-During the course of my masters I also gained knowledge of Full-Stack development technologies such as: React, HTML5, CSS3, REST, Django, SQL, AWS RDS, AWS DynamoDB. 
+During the course of my masters I also gained knowledge of Full-Stack development technologies such as: React, HTML5, CSS3, Spring, REST, SQL, AWS RDS. 
 
 - 🔭 I’m currently working on my AWS Certified Developer certification exam.
 - 🌱 I’m currently learning Node.JS
@@ -50,48 +50,69 @@ During the course of my masters I also gained knowledge of Full-Stack developmen
 
 ## Technology & Tools
 **Programming Languages<br />**
-<code>Python</code>
-<code>MATLAB</code>
-<code>C++</code>
-<code>JavaScript</code>
-<code>HTML5</code>
-<code>CSS3</code>
+  <code>Python</code>
+  <code>Java</code>
+  <code>C++</code>
+  <code>Shell</code>
+  <code>MATLAB</code>
+  <code>JavaScript</code>
+
 
 **Machine Learning Libraries<br />**
-<code>PyTorch</code>
-<code>TensorFlow 2.0</code>
-<code>scikit-learn</code>
-<code>OpenCV</code>
-<code>CUDA</code>
+  <code>PyTorch</code>
+  <code>TensorFlow 2.0</code>
+  <code>scikit-learn</code>
+  <code>OpenCV</code>
+  <code>NumPy</code>
+  <code>SciPy</code>
+  <code>Pandas</code>
+  <code>Matplotlib</code>
+  <code>CUDA</code>
+  <code>gglplot</code>
+  <code>Tableau</code>
 
 **Databases<br />**
-<code>MySQL</code>
-<code>AWS RDS</code>
-<code>AWS DynamoDB</code>
-<code>MongoDB</code>
+  <code>MySQL</code>
+  <code>AWS RDS</code>
+  <code>AWS DynamoDB</code>
+  <code>MongoDB</code>
 
 **Web Technologies<br />**
-<code>React</code>
-<code>REST</code>
-<code>Django</code>
-<code>Node.JS</code>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>React.JS</code>
+  <code>Spring</code>
+  <code>REST API</code>
+  <code>XML</code>
+  <code>JSON</code>
+  <code>Redis</code>
 
 **Cloud<br />**
-<code>AWS (EC2, S3, RDS, DynamoDB, AWS Lambda, ECS)</code>
+  <code>AWS (EC2, S3, RDS, DynamoDB, AWS Lambda, ECS)</code>
 
-**Data Analysis<br />**
-<code>NumPy</code>
-<code>SciPy</code>
-<code>Pandas</code>
-<code>Matplotlib</code>
-<code>Tableau</code>
+**Data Analysis and Visualization<br />**
+  <code>Pandas</code>
+  <code>Matplotlib</code>
+  <code>Tableau</code>
+  <code>gglplot</code>
 
-**Development Tools<br />**
-<code>PyCharm</code>
-<code>Visual Studio</code>
-<code>MATLAB</code>
-<code>Spyder</code>
-<code>Git</code>
+**Frameworks <br />**
+  <code>MVC Architecture</code>
+  <code>Spring Boot</code>
+  <code>Spring Microservices</code>
+  <code>Docker</code>
+  
+**Software Development <br />**
+  <code>Unix</code>
+  <code>Git</code>
+  <code>Agile Development</code>
+  <code>JUnit</code>
+  <code>SCRUM</code>
+  <code>PyCharm</code>
+  <code>IntelliJ IDEA</code>
+  <code>Visual Studio</code>
+  <code>Eclipse</code>
+  <code>Mathworks MATLAB</code>
 
 </details>
 
