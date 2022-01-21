@@ -4,9 +4,9 @@
 
 <p align='center'></p>
 
-I am a Software Engineer at Capital One Financial, and a recent graduate in Computer Science from the University of Texas--Arlington, currently looking for full-time job opportunities as a Software Developer / Full-Stack Developer preferably in ML domain.
+I am a Software Engineer at Capital One Financial, and a recent graduate in Computer Science from the University of Texas--Arlington. I am currently looking for full-time job opportunities as a Software Developer / Full-Stack Developer preferably in ML domain.
 
-I am well versed in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
+Technically I am well versed in Java, Python, SQL, Spring Boot, AWS, PySpark, Backend Kafka Streams, React.JS, D3.JS. Experienced in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
 
 During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process, Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
 
@@ -47,7 +47,6 @@ My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision.
 *-  Work involved data preprocessing from depth and color modalities, human pose estimation, activity detection and recognition*\
 *-	Collaborate with other researchers on activity recognition and cognitive assessment in children through motion capture and computer vision.*\
 *-	Master’s thesis: Structure Aware Human Pose Estimation using Adversarial Learning.*\
-
 **Autonomous Vehicle Development at Sigma Lab • Supervisor: Dr Chen Kan • 12/2019 – 05/2020**\
 *-	Integrated ROS on Jetson TX2, an NVIDIA AI platform for a self-driving racecar.*\
 *-	Used LIDAR, Zed Stereo Camera data inputs and designed a CNN model for autonomous lane navigation.*
