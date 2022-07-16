@@ -4,15 +4,15 @@
 
 <p align='center'></p>
 
-I am a Software Engineer at Capital One Financial, and a recent graduate in Computer Science from the University of Texas--Arlington. I am currently looking for full-time job opportunities as a Back-end Developer / Full-Stack Developer preferably in ML domain.
+I am a Software Engineer at Ernst & Young, and a recent graduate in Computer Science from the University of Texas--Arlington. I am currently looking for full-time job opportunities as a Machine Learning Engineer.
 
-Technically I am well versed in Java, Python, SQL, Spring Boot, AWS, PySpark, Backend Data Stream development, React.JS, D3.JS. And professionally experienced in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
+Technically I am well versed in Java, Python, Spring Boot, Kafka Streams, Kafka ETL, SQL, AWS. And professionally experienced in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
 
 During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process, Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
 
-My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I have implemented Generative Adversarial Deep Convolutional Networks to attain Structure-awareness in Human Pose Estimation. 
+My master's thesis was on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I had implemented Generative Adversarial Convolutional Networks in order to achieve Structure-awareness in Human Pose Estimation https://github.com/sooryamsharma/adv-pose-estimation. 
 
-- 🔭 I’m currently working on my AWS Certified Developer certification exam.
+- 🔭 I’m currently working on my SnowPro certification exam.
 
 <details>
   <summary>📃 My Resume</summary>
@@ -30,8 +30,8 @@ My master's thesis is on Human Pose Estimation, a sub-domain of Computer Vision.
 
 ## Work Experience
 
-- 💼 **Software Engineer**\
-📆 September 2021 - Present\
+- 💼 **Software Developer**\
+📆 September 2021 - March 2022\
 📍 **Capital One Financial** - Plano TX, USA\
 *- Developing backend data streams and Spring Boot APIs used in auto loan loss mitigation efforts related to repossessions and skip tracing*\
 *- Working adjacent to Data Science team on developing Java-based integrations for Machine Learning models determining likely addresses of vehicle locations and phone numbers of skip customers*\
