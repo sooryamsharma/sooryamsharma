@@ -4,9 +4,9 @@
 
 <p align='center'></p>
 
-I am a Software Engineer at Ernst & Young, and a recent graduate in Computer Science from the University of Texas--Arlington. I am currently looking for full-time job opportunities as a Machine Learning Engineer.
+I am a Backend Engineer at Ernst & Young, and a recent graduate in Computer Science from the University of Texas--Arlington. I am currently looking for full-time job opportunities as a Machine Learning Engineer.
 
-Technically I am well versed in Java, Python, Spring Boot, Kafka Streams, Kafka ETL, SQL, AWS. And professionally experienced in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
+Technically I am well versed in Java, Python, Spring Boot, Kafka Streams, SQL, AWS (MSK, ECS, EMR, S3, EC2). And professionally experienced in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
 
 During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process, Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
 
@@ -30,6 +30,18 @@ My master's thesis was on Human Pose Estimation, a sub-domain of Computer Vision
 
 ## Work Experience
 
+
+- 💼 **Backend Engineer Analyst**\
+📆 March 2022 - Present\
+📍 **Ernst & Young** - Dallas TX, USA\
+*- Working on designing and integrating the customer account creation/maintenance on FIS cloud*\
+*-	Design and development of RESTful microservices on AWS*\
+*-	Developing Kafka Streams using Spring Boot to consume and orchestrate events from FIS to load them into Snowflake*\
+*-	Collected, defined, and translated user requirements into project designs and implementation plans*\
+*-	Travelling to client site twice a month and work closely with the stakeholders to identify areas of process improvement and best practice*\
+*-	Volunteered to write and automate a Python script to extract useful metadata like table names, views from about 90K complex queries*\
+*-	Research and document current customer; and item/product data definitions, processes and ownership across all business functions*
+
 - 💼 **Software Developer**\
 📆 September 2021 - March 2022\
 📍 **Capital One Financial** - Plano TX, USA\
@@ -38,7 +50,7 @@ My master's thesis was on Human Pose Estimation, a sub-domain of Computer Vision
 *- Involved in various phases of Software Development Life Cycle (SDLC) of the application like requirements gathering, design, analysis, and code development*\
 *- Using automated API / Web testing which utilizes ATDD or BDD & performance testing in JMeter*\
 *- Performing Unit testing using JUnit for code coverage*\
-*- Extensively working on CI/CD pipeline for code deployment by engaging different tools (GitHub, Jenkins, Code Pipeline) in the process right from developer code check-in to production deployment*\
+*- Extensively working on CI/CD pipeline for code deployment by engaging different tools (GitHub, Jenkins, Code Pipeline) in the process right from developer code check-in to production deployment*
     
 - 💼 **Graduate Research Assistant**\
 📆 December 2019 - May 2021\
