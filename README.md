@@ -16,6 +16,8 @@ My work in the tech industry has honed my skills in backend development, but her
 
 - 🌱 I’m currently working on my research on Facial Sentiment Analysis
 
+-------------------------------------
+
 <details>
   <summary>📃 My Resume</summary>
 
@@ -154,6 +156,8 @@ My work in the tech industry has honed my skills in backend development, but her
   <code>Mathworks MATLAB</code>
 
 </details>
+
+-------------------------------------
 
 ## Contact
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/suryamsharma/)
