@@ -35,7 +35,7 @@ My work in the tech industry has honed my skills in backend development, but her
 
 - 💼 **Sr. Backend Engineer**\
 📆 March 2022 - Present\
-📍 **Ernst & Young** - Dallas TX, USA\
+📍 **Ernst & Young** - Dallas TX, USA\ | **Banking Transformation Project**
 *- Collaborated on architecting a domain-driven party service application integrating legacy MDM with modern cloud-based banking platforms.*\
 *- Revolutionized customer onboarding for instant account setup and access to cutting-edge financial tools.*\
 *- Leveraged Spring Boot for our party service application, optimized for cloud performance via AWS containerization.*\
