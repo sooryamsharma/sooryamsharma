@@ -6,7 +6,7 @@
 
 🔧 **Senior Backend Engineer** at **Ernst & Young** | 🖼️ **Computer Vision Enthusiast**
 
-My work at EY has honed my skills in backend development, but here on GitHub, my passion for **Computer Vision** takes center stage.
+My work in the tech industry has honed my skills in backend development, but here on GitHub, my passion for **Computer Vision** takes center stage.
 
 🌟 **Areas of Passion**:
 - 💡 **Facial Sentiment Analysis**: Understanding the complexities of human emotions through technology.
