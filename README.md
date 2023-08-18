@@ -4,15 +4,17 @@
 
 <p align='center'></p>
 
-I am a Backend Engineer at Ernst & Young, and a recent graduate in Computer Science from the University of Texas--Arlington. I am currently looking for full-time job opportunities as a Machine Learning Engineer.
+🔧 **Senior Backend Engineer** at **Ernst & Young** | 🖼️ **Computer Vision Enthusiast**
 
-Technically I am well versed in Java, Python, Spring Boot, Kafka Streams, SQL, AWS (MSK, ECS, EMR, S3, EC2). And professionally experienced in collaboratively working with team members in test-driven development and identifying, troubleshooting, and decoding software defects to ensure projects are completed on time and exceed all expectations. This combination of skills has prepared me to contribute to a team effort in the design, development, integration and delivery of software/web applications. 
+My work at EY has honed my skills in backend development, but here on GitHub, my passion for **Computer Vision** takes center stage.
 
-During my master's I had hands-on experience with various Machine Learning technologies such as the use of deep learning algorithms like Convolutional Neural Networks (CNN), Generative Adversarial Networks (GANs), Recurrent Neural Networks (RNN), or traditional Machine Learning algorithms like Decision Trees, Random Forest, Dynamic Time Warping, Markov Decision Process, Reinforcement Learning, Support Vector Machines (SVM), Singular Value Decomposition (SVD), Principle Component Analysis, K Nearest Neighbors, K-means clustering, Naive Bayes classifier, Linear and Logistic Regression. 
+🌟 **Areas of Passion**:
+- 💡 **Facial Sentiment Analysis**: Understanding the complexities of human emotions through technology.
+- 🏃 **Activity Recognition**: Using AI to interpret and anticipate human actions.
 
-My master's thesis was on Human Pose Estimation, a sub-domain of Computer Vision. It is titled: "Adversarial Learning for Human Pose Estimation". I had implemented Generative Adversarial Convolutional Networks in order to achieve Structure-awareness in Human Pose Estimation https://github.com/sooryamsharma/adv-pose-estimation. 
+📌 On GitHub, my code meets vision 🔭. Dive into my projects and let's exchange ideas.
 
-- 🔭 I’m currently working on my SnowPro certification exam.
+- 🌱 I’m currently working on my research on Facial Sentiment Analysis
 
 <details>
   <summary>📃 My Resume</summary>
@@ -31,26 +33,32 @@ My master's thesis was on Human Pose Estimation, a sub-domain of Computer Vision
 ## Work Experience
 
 
-- 💼 **Backend Engineer Analyst**\
+- 💼 **Sr. Backend Engineer**\
 📆 March 2022 - Present\
 📍 **Ernst & Young** - Dallas TX, USA\
-*- Working on designing and integrating the customer account creation/maintenance on FIS cloud*\
-*-	Design and development of RESTful microservices on AWS*\
-*-	Developing Kafka Streams using Spring Boot to consume and orchestrate events from FIS to load them into Snowflake*\
-*-	Collected, defined, and translated user requirements into project designs and implementation plans*\
-*-	Travelling to client site twice a month and work closely with the stakeholders to identify areas of process improvement and best practice*\
-*-	Volunteered to write and automate a Python script to extract useful metadata like table names, views from about 90K complex queries*\
-*-	Research and document current customer; and item/product data definitions, processes and ownership across all business functions*
+*- Collaborated on architecting a domain-driven party service application integrating legacy MDM with modern cloud-based banking platforms.*\
+*- Revolutionized customer onboarding for instant account setup and access to cutting-edge financial tools.*\
+*- Leveraged Spring Boot for our party service application, optimized for cloud performance via AWS containerization.*\
+*- Developed scalable RESTful APIs connecting seamlessly with top cloud-based financial platforms.*\
+*- Employed Amazon MSK for reliable cross-domain messaging, leveraging Apache Kafka.*\
+*- Incorporated Splunk for enhanced system logging, monitoring, and real-time troubleshooting insights.*\
+*- Designed intuitive dashboards for instant insights into app performance and user behavior.*\
+*- Made bi-monthly client visits to ensure clear communication and alignment with client vision.*\
+*- Excelled in translating complex user requirements into clear designs and actionable plans.*\
+*- Contributed to thorough project documentation including Swagger, Confluence, architecture diagrams, data models, and more.*\
+*- Assisted in designing robust automated Newman test scenarios for consistent software quality.*\
+*- Volunteered to automate a Python script for another team, extracting crucial metadata from ~90K queries.*\
+*- Aided in engagement economics tasks, creating Tableau dashboards and handling monthly invoices.*
 
 - 💼 **Software Developer**\
 📆 September 2021 - March 2022\
 📍 **Capital One Financial** - Plano TX, USA\
-*- Developing backend data streams and Spring Boot APIs used in auto loan loss mitigation efforts related to repossessions and skip tracing*\
-*- Working adjacent to Data Science team on developing Java-based integrations for Machine Learning models determining likely addresses of vehicle locations and phone numbers of skip customers*\
-*- Involved in various phases of Software Development Life Cycle (SDLC) of the application like requirements gathering, design, analysis, and code development*\
-*- Using automated API / Web testing which utilizes ATDD or BDD & performance testing in JMeter*\
-*- Performing Unit testing using JUnit for code coverage*\
-*- Extensively working on CI/CD pipeline for code deployment by engaging different tools (GitHub, Jenkins, Code Pipeline) in the process right from developer code check-in to production deployment*
+*- Engaged in backend development, specifically focusing on Kafka streams and REST APIs, to enhance auto loan loss mitigation efforts.*\
+*- Worked hand-in-hand with the Data Science team, developing Java integrations for ML models geared towards repossession strategies.*\
+*- Spanned the entire SDLC: from requirements and design brainstorming to agile coding.*\
+*- Oversaw thorough end-to-end QA and performance tests, ensuring top-tier production quality.*\
+*- Amplified unit tests using JUnit, boasting a stellar code coverage surpassing 95%.*\
+*- Devised user acceptance test scenarios for data streams & APIs via Cucumber Gherkins.*
     
 - 💼 **Graduate Research Assistant**\
 📆 December 2019 - May 2021\
